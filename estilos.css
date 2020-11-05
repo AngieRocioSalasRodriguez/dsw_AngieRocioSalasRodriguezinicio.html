@@ -101,11 +101,23 @@ color: rgb(3, 76, 99);
     height: right;
     position:absolute;
  }
+ .Datos
+ {
+   text-align:justify;
+    position: absolute;  
+    top: 45%;
+    transform: translatex(-30%)translateY(1%);
+    font-size: 25px;
+    margin-right: 5px;
+    float: left;
+    left: 35%;
+ }
  .Photo{
-    margin: 80px; 
-    width: 50%;   
+    margin: 90px; 
+    width: 100%;   
     display: block;
     text-align: right;
+    
  }
  .imagen{
     display: block;
@@ -116,7 +128,7 @@ color: rgb(3, 76, 99);
     left: center;
  }
  table{
-     width: 950px;
+     width: 50px;
      float: left;
 
  }

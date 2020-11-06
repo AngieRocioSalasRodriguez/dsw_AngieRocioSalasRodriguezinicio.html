@@ -1,2 +1,2 @@
-# inicio.html
+# index.html
 

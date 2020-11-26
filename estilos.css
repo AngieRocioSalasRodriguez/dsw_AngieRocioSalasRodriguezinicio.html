@@ -69,7 +69,7 @@ color: rgb(3, 76, 99);
  }
  .menu>li>a{
     display: block;
-    padding: 25x 30px;
+    padding: 8px 30px;
     text-decoration: none;
     color: rgb(124, 122, 122); 
  }

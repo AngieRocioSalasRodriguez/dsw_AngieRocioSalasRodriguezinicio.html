@@ -105,18 +105,20 @@ color: rgb(3, 76, 99);
  {
    text-align:justify;
     position: absolute;  
-    top: 45%;
+    top: 135%;
     transform: translatex(-30%)translateY(1%);
     font-size: 25px;
     margin-right: 5px;
     float: left;
     left: 35%;
  }
+ 
+ 
  .Photo{
     margin: 90px; 
     width: 100%;   
     display: block;
-    text-align: right;
+    text-align: left;
     
  }
  .imagen{
